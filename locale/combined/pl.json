@@ -1,0 +1,12 @@
+{
+  "base": {
+    "name": "Polish",
+    "local-name": "Polski",
+    "dir": "ltr"
+  },
+  "page": {
+    "index": "Index PL",
+    "one": "Jeden",
+    "two": "Dwa"
+  }
+}

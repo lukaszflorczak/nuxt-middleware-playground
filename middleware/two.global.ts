@@ -1,7 +1,5 @@
 export default defineNuxtRouteMiddleware((to) => {
-  console.log(to.path)
-
-  if (to.path === '/one') {
-    return navigateTo('/two')
+  if ((to.name as string).startsWith('one__')) {
+    // return navigateTo('/two')
   }
-}) 
+})

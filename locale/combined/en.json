@@ -1,0 +1,12 @@
+{
+  "base": {
+    "name": "English",
+    "local-name": "English",
+    "dir": "ltr"
+  },
+  "page": {
+    "index": "Index EN",
+    "one": "One",
+    "two": "Two"
+  }
+}

@@ -1,3 +1,3 @@
 <template>
-  <h1>One</h1>
+  <h1>{{ $t('page.one') }}</h1>
 </template>
